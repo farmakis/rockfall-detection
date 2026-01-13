@@ -25,7 +25,7 @@ Official implementation for
 ## 📌  Description
 
 <p align="center">
-  <img width="60%" src="./media/teaser.png">
+  <img width="80%" src="./media/teaser.png">
 </p>
 
 **3D ML Rockfall Detection** is a **point cloud classification** method with [PointNet](https://arxiv.org/abs/1612.00593) and [PointNet++](https://arxiv.org/abs/1612.00593) models. The project aims at separating between rockfalls an other deformation clusters detected within rock slope change detection programs. Detailed applications of the models and analysis results on real rockfall monitoring cases are demonstrated in the associated research [paper](https://doi.org/10.1016/j.enggeo.2022.106836).
